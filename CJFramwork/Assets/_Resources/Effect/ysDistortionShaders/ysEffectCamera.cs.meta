@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4794067c5a77e8c4f9647e1a73d7a372
+timeCreated: 1486206368
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EffectCameraPrefab: {fileID: 1000012458671382, guid: 5ba427e55d1a86144a7728d2aa800149,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
